@@ -4,8 +4,7 @@ Random Cat Facts is a delightful web application that provides users with fascin
 🎯 Features :-
 ✅ Instant Fact Generator: Click a New Fact button to receive a new, random cat fact instantly.
 ✅ User-Friendly Interface: Simple and clean design ensures easy navigation.
-✅ Winner detection and game reset option
-✅ Responsive design
+
 
 Language used :- HTML, CSS, JavaScript 
 
